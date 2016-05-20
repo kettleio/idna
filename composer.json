@@ -1,0 +1,24 @@
+{
+    "name": "adanarchila/idna-converter-laravel",
+    "type": "library",
+    "description": "Converts domain names between UTF-8 and ASCII (punycode) notation, by using this thin little Laravel Wrapper",
+    "keywords": ["domain","idn","idna","encode","lib"],
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Adan Archila",
+            "email": "adan.archila@gmail.com",
+            "homepage": "http://www.adanarchila.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "mabrahamde/idna-converter": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "DavidWickstrom": "src"
+        }
+    }
+}
