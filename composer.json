@@ -1,5 +1,5 @@
 {
-    "name": "kettleio/idna-converter-laravel",
+    "name": "kettleio/idna",
     "type": "library",
     "description": "Converts domain names between UTF-8 and ASCII (punycode) notation, by using this thin little Laravel Wrapper",
     "keywords": ["domain","idn","idna","encode","lib"],
